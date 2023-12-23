@@ -1,6 +1,6 @@
 # cppgraphs
 
-Just a couple of graph related classes from a C++ refresher course I took on Coursera that I want to keep around for reference.
+Just some graph related code I wrote as part of a C++ refresher course I took on Coursera that I want to keep around for reference.
 
 graph.cpp contains an implementation of  Dijkstra's shortest path algorithm. 
 
